@@ -1,20 +1,23 @@
 # Craftique
 
-A handcrafted products website built using HTML, JavaScript and Tailwind CSS.
+A responsive handcrafted products e-commerce website built using HTML, JavaScript, and Tailwind CSS.
 
-## Live Demo
-
-https://craftique1.netlify.app/
+🔗 **Live Demo:** https://craftique1.netlify.app/
 
 ## Features
 
-- Responsive design
-- Dark/Light mode
-- Product showcase
-- Modern UI
+* Responsive Design
+* Product Showcase
+* Category Sections
+* Customer Testimonials
+* Modern UI
 
 ## Tech Stack
 
-- HTML
-- JavaScript
-- Tailwind CSS
+* HTML
+* JavaScript
+* Tailwind CSS
+
+## Author
+
+**Jassu Khokhar**
