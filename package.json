@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.3.0",
+    "tailwindcss": "^4.3.0"
+  },
+  "scripts": {
+    "build": "npx @tailwindcss/cli -i ./src/style.css -o ./dist/style.css",
+    "watch": "npx @tailwindcss/cli -i ./src/style.css -o ./dist/style.css --watch"
+  }
+}
